@@ -1,0 +1,12 @@
+body {
+    color: white;
+    margin: 0 auto;
+    padding: 4rem 0;
+    width: 90%;
+    max-width: 60rem;
+    background: brown;
+}
+
+h1, p, video{
+    text-align: center;
+}
